@@ -6,8 +6,6 @@ The purpose of this assignment was to refractor the provdided code to meet acces
 
 This assignment was to practice real-life situations of what a developer would work on for clients and help understanding best practices when refactoring code (leave the code a little clean than when you found it). 
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 ## Screenshoot to web page
 ![Screenshot](./assets/images/week-1-challenge-screenshot-fayehong.png)
 
