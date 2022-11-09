@@ -10,5 +10,6 @@ This assignment was to practice real-life situations of what a developer would w
 ![Screenshot](./assets/images/week-1-challenge-screenshot-fayehong.png)
 
 ## Link to deployed application
+link: https://hong-f.github.io/challenge-week1/
 
 
